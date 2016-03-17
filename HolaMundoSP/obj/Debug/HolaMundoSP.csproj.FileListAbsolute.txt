@@ -1,0 +1,3 @@
+c:\users\ericame\documents\visual studio 2015\Projects\HolaMundoSP\HolaMundoSP\bin\Debug\HolaMundoSP.pdb
+c:\users\ericame\documents\visual studio 2015\Projects\HolaMundoSP\HolaMundoSP\obj\Debug\HolaMundoSP.dll
+c:\users\ericame\documents\visual studio 2015\Projects\HolaMundoSP\HolaMundoSP\obj\Debug\HolaMundoSP.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b515eb35-d693-4321-8670-eb29f7902288" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="HolaMundoSP_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

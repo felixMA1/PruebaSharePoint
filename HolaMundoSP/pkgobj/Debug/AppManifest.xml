@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:70EDFC97-B41D-43C5-B751-7C00AD999804-->
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="HolaMundoSP" ProductID="{a6b7bc72-e5f2-4115-bcfc-0fab2d7b2b96}" Version="1.0.0.0" SharePointMinVersion="16.0.0.0">
+  <Properties>
+    <Title>HolaMundoSP</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>
